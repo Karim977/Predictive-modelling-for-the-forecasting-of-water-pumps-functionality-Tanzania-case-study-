@@ -1,0 +1,1 @@
+A predictive modeling approach to accurately forecast the operational status of water pumps across Tanzania. Leveraging a robust dataset, the methodology integrates machine learning algorithms, including deep learning and gradient boosting, with a focus on addressing the challenges of imbalanced data through preprocessing and feature engineering strategies.
